@@ -3,3 +3,6 @@
 __pycache__
 .anvil-data
 /.anvil/
+.opencode/
+opencode.json
+agents.md
